@@ -15,7 +15,6 @@
   </a>
 
 
-
 This bot wins the majority of rounds on PancakeSwap based.
 This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
 
