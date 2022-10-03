@@ -25,7 +25,6 @@ Thx to PancakeSwapUS <3
 our update is in planning. there's a lot coming your way.
 We know some bugs (Windows use)
 
-
 ## *Our Team*
 
 ![Our Team](https://i.ibb.co/8jR3Fcv/logo.png)
